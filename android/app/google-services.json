@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "674169724818",
+    "project_id": "payx-36c39",
+    "storage_bucket": "payx-36c39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674169724818:android:b138d84a729f1a422b6b4b",
+        "android_client_info": {
+          "package_name": "com.peckerson.payx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674169724818-oe7nho5177vqpnghutum70tmjh2vt45l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCinCEuLBIwifan5fmUcWg9rcPtAUBEX0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674169724818-oe7nho5177vqpnghutum70tmjh2vt45l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
